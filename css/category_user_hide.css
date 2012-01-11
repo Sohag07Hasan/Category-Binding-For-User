@@ -1,0 +1,12 @@
+/* 
+    Document   : category_user_hide
+    Created on : Jan 11, 2012, 1:46:11 PM
+    Author     : s
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.categorychecklist{
+	display: none;
+}
+
